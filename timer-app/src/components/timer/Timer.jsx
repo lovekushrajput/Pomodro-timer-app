@@ -29,7 +29,7 @@ function Timer() {
   return (
     <div className="font-sans bg-gradient-to-tr  from-[rgb(208,181,146)] to-[rgb(44,40,37)] h-screen flex flex-col items-center">
       <h1 className="text-white text-5xl font-semibold tracking-wide mt-1 mb-10 uppercase">
-        Pomodoro
+        Pomodro
       </h1>
       <Tags />
       <Circular />
